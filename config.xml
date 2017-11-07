@@ -15,7 +15,6 @@
 
 <!-- Plugins -->
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
-    <plugin name="cordova-plugin-splashscreen" source="npm" spec="~3.2.2" />
 <!-- End Plugins -->
 
     <access origin="*" />
